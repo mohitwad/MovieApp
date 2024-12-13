@@ -1,0 +1,22 @@
+PODS:
+  - ActiveLabel (1.1.0)
+  - SDWebImage (5.16.0):
+    - SDWebImage/Core (= 5.16.0)
+  - SDWebImage/Core (5.16.0)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - ActiveLabel
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  ActiveLabel: 5e3f4de79a1952d4604b845a0610d4776e4b82b3
+  SDWebImage: 2aea163b50bfcb569a2726b6a754c54a4506fcf6
+
+PODFILE CHECKSUM: 5f9042d84efead7d8ecc054639022a9f22d55331
+
+COCOAPODS: 1.16.2
